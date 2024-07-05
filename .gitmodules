@@ -1,0 +1,8 @@
+[submodule "workspaces-core-images"]
+	path = workspaces-core-images
+	url = git@github.com:kasmtech/workspaces-core-images.git
+	branch = develop
+[submodule "workspaces-images"]
+	path = workspaces-images
+	url = git@github.com:kasmtech/workspaces-images.git
+	branch = develop
